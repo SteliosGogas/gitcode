@@ -4,4 +4,5 @@ if hungry == "yes" :
 	print("eat pizza")
 	print("eat burger")
 else :
-	print("do your homework")
+	print("dont change the code in this py file")
+	
