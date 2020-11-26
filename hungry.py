@@ -10,6 +10,7 @@ else if :
 		print("drink water")
 		print("drink soda")
 		print('drink juice')
+		print('drink coca-cola')
 else :
 	tired = input ('are you tired?')
 	if tired == 'yes' :
