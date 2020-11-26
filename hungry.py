@@ -11,6 +11,7 @@ else if :
 		print("drink soda")
 		print('drink juice')
 		print('drink coca-cola')
+		print('drink lemonade')
 else :
 	tired = input ('are you tired?')
 	if tired == 'yes' :
