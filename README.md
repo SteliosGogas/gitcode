@@ -1,3 +1,3 @@
 # gitcode
-test for git practise for geoanalysis
-practise command pull request
+Test differents git commands
+Internship for Geoanalysis S.A.
